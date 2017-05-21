@@ -1,6 +1,6 @@
 FROM dlanguage/ldc
 
-MAINTAINER: Sebastiaan Koppe <mail@skoppe.eu>
+MAINTAINER Sebastiaan Koppe <mail@skoppe.eu>
 
 RUN apt-get update && apt-get install -y curl libevent-dev libssl-dev \
  && apt-get auto-remove -y curl build-essential \
