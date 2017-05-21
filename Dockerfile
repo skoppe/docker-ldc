@@ -1,4 +1,4 @@
-FROM dlanguage/ldc
+FROM skoppe/docker-ldc
 
 MAINTAINER Sebastiaan Koppe <mail@skoppe.eu>
 
